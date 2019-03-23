@@ -30,3 +30,9 @@ Arayüz Dosyaları Oluşturuldu. <br/>
 Bu Aşamada İçeriklerle İlgili Herhangi Bir İşlem Yapılmadı. <br/>
 Artırılmış Gerçeklik İle İlgili Bir İşlem Bu Aşamada Yapılmadı. <br/>
 Güncelleme Tarihi : 17.03.2019 <br/>
+
+### Development.0.2
+İçerik Kısmı Dolduruldu. <br/>
+Artırılmış Gerçeklik Kütüphanesi Projeye Eklendi. <br/>
+Artırılmış Gerçeklik Sahnesi Boş Olarak Oluşturuldu. <br/>
+Güncelleme Tarihi : 23.03.2019 <br/>
