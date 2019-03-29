@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class menuControl : MonoBehaviour
 {
@@ -40,7 +41,7 @@ public class menuControl : MonoBehaviour
     /* ------------------------------ */
     public void btnStart_Click()
     {
-        // Burada Artirilmis Gerceklik Sahnesine Gitme Islemi Yapilacak.
+        SceneManager.LoadScene("ArScene");
     }
     public void btnLearn_Click()
     {

@@ -5,7 +5,7 @@ using UnityEngine;
 public class rotateParts : MonoBehaviour
 {
 
-    float rotSpeed = 10.0f;
+    public float rotSpeed = 10.0f;
     
     void OnMouseDrag()
     {

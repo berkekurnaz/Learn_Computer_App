@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="1_screen" size="100.000000 80.752533" />
+    <ImageTarget name="1_soundsystem" size="100.000000 100.000000" />
+    <ImageTarget name="1_printer" size="100.000000 95.238098" />
+    <ImageTarget name="1_mouse" size="100.000000 100.000000" />
+    <ImageTarget name="1_keyboard" size="100.000000 35.555557" />
+    <ImageTarget name="1_headset" size="100.000000 103.746399" />
+    <ImageTarget name="0_videocard" size="100.000000 100.000000" />
+    <ImageTarget name="0_ssd" size="100.000000 75.243904" />
+    <ImageTarget name="0_ram" size="100.000000 30.560272" />
+    <ImageTarget name="0_motherboard" size="100.000000 82.591095" />
+    <ImageTarget name="0_hdd" size="100.000000 137.931030" />
+    <ImageTarget name="0_cpu" size="100.000000 99.722992" />
+  </Tracking>
+</QCARConfig>

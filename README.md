@@ -36,3 +36,7 @@ Güncelleme Tarihi : 17.03.2019 <br/>
 Artırılmış Gerçeklik Kütüphanesi Projeye Eklendi. <br/>
 Artırılmış Gerçeklik Sahnesi Boş Olarak Oluşturuldu. <br/>
 Güncelleme Tarihi : 23.03.2019 <br/>
+
+### Development.0.3
+Artırılmış Gerçeklik İle İlgili İşlemler Yapıldı. <br/>
+Güncelleme Tarihi : 29.03.2019 <br/>
