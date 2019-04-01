@@ -40,3 +40,7 @@ Güncelleme Tarihi : 23.03.2019 <br/>
 ### Development.0.3
 Artırılmış Gerçeklik İle İlgili İşlemler Yapıldı. <br/>
 Güncelleme Tarihi : 29.03.2019 <br/>
+
+### Development.0.4
+Uygulama İsmi Ve Uygulama İkonu Gibi Ayarlamalar Yapıldı. <br/>
+Güncelleme Tarihi : 02.04.2019 <br/>
